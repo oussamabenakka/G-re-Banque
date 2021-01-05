@@ -1,0 +1,32 @@
+C:\Users\OUSSAMA\Desktop\GereBanque\obj\Debug\GereBanque.csprojAssemblyReference.cache
+C:\Users\OUSSAMA\Desktop\GereBanque\obj\Debug\GereBanque.AfficherClient.resources
+C:\Users\OUSSAMA\Desktop\GereBanque\obj\Debug\GereBanque.AjouterClient.resources
+C:\Users\OUSSAMA\Desktop\GereBanque\obj\Debug\GereBanque.AjouterComte.resources
+C:\Users\OUSSAMA\Desktop\GereBanque\obj\Debug\GereBanque.Deposer_Retirer.resources
+C:\Users\OUSSAMA\Desktop\GereBanque\obj\Debug\GereBanque.Form1.resources
+C:\Users\OUSSAMA\Desktop\GereBanque\obj\Debug\GereBanque.Properties.Resources.resources
+C:\Users\OUSSAMA\Desktop\GereBanque\obj\Debug\GereBanque.SupprimerClient.resources
+C:\Users\OUSSAMA\Desktop\GereBanque\obj\Debug\GereBanque.SupprimerCmpte.resources
+C:\Users\OUSSAMA\Desktop\GereBanque\obj\Debug\GereBanque.csproj.GenerateResource.cache
+C:\Users\OUSSAMA\Desktop\GereBanque\bin\Debug\GereBanque.exe.config
+C:\Users\OUSSAMA\Desktop\GereBanque\bin\Debug\GereBanque.exe
+C:\Users\OUSSAMA\Desktop\GereBanque\bin\Debug\GereBanque.pdb
+C:\Users\OUSSAMA\Desktop\GereBanque\obj\Debug\GereBanque.exe
+C:\Users\OUSSAMA\Desktop\GereBanque\obj\Debug\GereBanque.pdb
+C:\Users\OUSSAMA\Desktop\GereBanque\obj\Debug\GereBanque.DeuxGrid.resources
+C:\Users\OUSSAMA\Desktop\C sharp\Sadik c#\Windows Form\GereBanque\bin\Debug\GereBanque.exe.config
+C:\Users\OUSSAMA\Desktop\C sharp\Sadik c#\Windows Form\GereBanque\bin\Debug\GereBanque.exe
+C:\Users\OUSSAMA\Desktop\C sharp\Sadik c#\Windows Form\GereBanque\bin\Debug\GereBanque.pdb
+C:\Users\OUSSAMA\Desktop\C sharp\Sadik c#\Windows Form\GereBanque\obj\Debug\GereBanque.csprojAssemblyReference.cache
+C:\Users\OUSSAMA\Desktop\C sharp\Sadik c#\Windows Form\GereBanque\obj\Debug\GereBanque.AfficherClient.resources
+C:\Users\OUSSAMA\Desktop\C sharp\Sadik c#\Windows Form\GereBanque\obj\Debug\GereBanque.AjouterClient.resources
+C:\Users\OUSSAMA\Desktop\C sharp\Sadik c#\Windows Form\GereBanque\obj\Debug\GereBanque.AjouterComte.resources
+C:\Users\OUSSAMA\Desktop\C sharp\Sadik c#\Windows Form\GereBanque\obj\Debug\GereBanque.Deposer_Retirer.resources
+C:\Users\OUSSAMA\Desktop\C sharp\Sadik c#\Windows Form\GereBanque\obj\Debug\GereBanque.DeuxGrid.resources
+C:\Users\OUSSAMA\Desktop\C sharp\Sadik c#\Windows Form\GereBanque\obj\Debug\GereBanque.Form1.resources
+C:\Users\OUSSAMA\Desktop\C sharp\Sadik c#\Windows Form\GereBanque\obj\Debug\GereBanque.Properties.Resources.resources
+C:\Users\OUSSAMA\Desktop\C sharp\Sadik c#\Windows Form\GereBanque\obj\Debug\GereBanque.SupprimerClient.resources
+C:\Users\OUSSAMA\Desktop\C sharp\Sadik c#\Windows Form\GereBanque\obj\Debug\GereBanque.SupprimerCmpte.resources
+C:\Users\OUSSAMA\Desktop\C sharp\Sadik c#\Windows Form\GereBanque\obj\Debug\GereBanque.csproj.GenerateResource.cache
+C:\Users\OUSSAMA\Desktop\C sharp\Sadik c#\Windows Form\GereBanque\obj\Debug\GereBanque.exe
+C:\Users\OUSSAMA\Desktop\C sharp\Sadik c#\Windows Form\GereBanque\obj\Debug\GereBanque.pdb
